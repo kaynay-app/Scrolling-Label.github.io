@@ -1,0 +1,16 @@
+﻿<Window x:Class="Scrolling_Label.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Scrolling_Label"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Label x:Name="lblScrollingLabel" FontSize="25" Content="This is a very long scrolling text" HorizontalAlignment="Left" Margin="124,124,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtScrollingText" HorizontalAlignment="Left" Margin="124,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" Height="27" TextChanged="txtScrollingText_TextChanged"/>
+        <Button x:Name="btnStartScroll" Content="Scroll" HorizontalAlignment="Left" Margin="140,286,0,0" VerticalAlignment="Top" Height="26" Width="86" Click="btnStartScroll_Click"/>
+        <Button x:Name="btnExit" Content="Exit" Canvas.Left="321" Canvas.Top="286" Width="79" Height="26" Click="btnExit_Click"/>
+
+    </Canvas>
+</Window>
