@@ -1,0 +1,22 @@
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.exe
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.deps.json
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.runtimeconfig.json
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.runtimeconfig.dev.json
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.dll
+C:\Users\kelem\source\repos\Scrolling Label\bin\Debug\net5.0-windows\Scrolling Label.pdb
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.csproj.AssemblyReference.cache
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label_MarkupCompile.cache
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label_MarkupCompile.lref
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.g.resources
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.AssemblyInfoInputs.cache
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.AssemblyInfo.cs
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.csproj.CoreCompileInputs.cache
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.dll
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\ref\Scrolling Label.dll
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.pdb
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\Scrolling Label.genruntimeconfig.cache
+C:\Users\kelem\source\repos\Scrolling Label\obj\Debug\net5.0-windows\refint\Scrolling Label.dll

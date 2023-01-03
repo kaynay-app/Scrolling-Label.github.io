@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Scrolling Label/1.0.0": {
+        "runtime": {
+          "Scrolling Label.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scrolling Label/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

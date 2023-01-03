@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3a6r7Moo+8C6PbfexmEukB6ve6Imrgo74eCbZjQMqbgUB/F5fJAB00vPFLAjqp4JhbvXqxXXZC68/qDNJZfmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelem\\source\\repos\\Scrolling Label\\Scrolling Label.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
